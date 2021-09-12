@@ -1,0 +1,19 @@
+{
+  "name": "arrays_js",
+  "version": "1.0.0",
+  "description": "my_npm_packet_for_arrays",
+  "main": "node arrays.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dmurav/npm_arrays.git"
+  },
+  "author": "Dmitrii Muravskii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dmurav/npm_arrays/issues"
+  },
+  "homepage": "https://github.com/Dmurav/npm_arrays#readme"
+}
